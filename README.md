@@ -10,7 +10,7 @@ A landing page developed to apply the knowledge studied in the course.
 
 **[`Preview`](https://alexbleggi.netlify.app/preview/trillo)**
 
-<img src="https://github.com/alexbjr369/alexbjr369/blob/main/images/natours.png" alt="Natours">
+<img src="https://github.com/alexbjr369/alexbjr369/blob/main/images/trillo.png" alt="Trillo">
 
 ## [Built With](https://alexbleggi.netlify.app/docs/projects/trillo#built-with)
 
